@@ -23,4 +23,4 @@ Las preguntas y los jugadores se almacenaron en una base de datos, con la siguie
 
 ![base de preguntas](https://user-images.githubusercontent.com/87629866/133986234-121e8c09-d472-460b-b575-549473428e17.PNG)
 
-Queda pendiente algunas funcionalidades en cuanto a los datos del jugador
+Queda pendiente algunas funcionalidades en cuanto a los datos del jugador, dejo un video demostrativo al final de los archivos.
